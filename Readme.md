@@ -45,3 +45,17 @@ b = 228
 # Correct way: Typecast the integer 'b' to a string
 print(a + str(b))
 # Output: Abhishek got marks: 228
+
+
+Strings 📜
+A string is an immutable sequence of characters. Once a string is declared, it cannot be changed.
+
+Python
+
+my_string = "Hello World"
+Slicing in Strings
+You can access individual characters or a subsequence of characters from a string using indexing and slicing.
+
+Positive Indexing: Starts from 0 for the first character.
+
+Negative Indexing: Starts from -1 for the last character.
